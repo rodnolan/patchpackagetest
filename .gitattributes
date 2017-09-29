@@ -1,1 +1,2 @@
 *.pbxproj -text
+patches/*.patch eof=lf
